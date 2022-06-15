@@ -1,0 +1,9 @@
+.header{
+    border-bottom: none;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight:500;
+    padding: .5rem 1rem;
+    margin-bottom: 0;
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
